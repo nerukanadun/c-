@@ -10,19 +10,3 @@ Note Unlike C, C++ allows dynamic allocation of arrays at runtime without specia
 
 Accessing elements of an array:
 
-Indexing in arrays starts from 0.So the first element is stored at 
-arr[0],the second element at arr[1] and so on through arr[9].
-You will be given an array of  integers and you have to print the integers in the reverse order.
-
-
-
-
-
-
-Sample Input
-
-4
-1 4 3 2
-Sample Output
-
-2 3 4 1
