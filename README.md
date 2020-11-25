@@ -17,11 +17,7 @@ You will be given an array of  integers and you have to print the integers in th
 
 
 
-, where  is the  integer in the array.
 
-Output Format
-
-Print the  integers of the array in the reverse order, space-separated on a single line.
 
 Sample Input
 
